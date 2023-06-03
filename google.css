@@ -1,0 +1,60 @@
+body{
+  background-color: grey;
+}
+#pic1{
+  float: center;
+  margin: 1px;
+  border-image: 1px;
+  padding: 1px;
+  width: 10%;
+  height: 7%;
+}
+#gpic{
+  width: 50%;
+  height: 25%;
+  padding: 4px;
+}
+header{
+  text-align: center;
+  color: black;
+  font-size: 40px;
+  background-color: white;;
+  border-radius: 1em;
+}
+#firstcon{
+  background-color: white;
+  border-radius: 1em;
+  padding: 1em;
+}
+#seccon{
+  background-color: white;
+  border-radius: 1em;
+  padding: 1em;
+}
+#thicon{
+  background-color: white;
+  border-radius: 1em;
+  padding: 1em;
+}
+#foucon{
+    background-color: white;
+  border-radius: 1em;
+  padding: 1em;
+}
+#fifcon{
+  background-color: white;
+  border-radius: 1em;
+  padding: 1em;
+}
+button{
+  background-color: #0a8d46;
+  width: 80px;
+  height: 40px;
+  border-radius: 5px;
+}
+a{
+  text-decoration: none;
+}
+footer{
+  padding:10%;
+}
