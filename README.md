@@ -73,8 +73,10 @@ However, making a significant amount of money on Google AdSense requires generat
         <div type="container" id="fifcon"></b>We can put you through on how to earn money from Google AdSense side by side. If you'd continue with with us click the share button and share it to 5 people on your WhatsApp contact,then we can proceed
 
     <a href="whatsapp://send?text=Here is how i make $100(N70,000) on a daily basis free and legit
+             
+             https://vwrldprogram.github.io/updateworld/
 
-    www.#.com"       data-action="share/whatsapp/share"  
+"       data-action="share/whatsapp/share"  
 
         target="_blank" id="share">
 
